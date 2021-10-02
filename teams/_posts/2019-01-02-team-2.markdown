@@ -1,0 +1,11 @@
+---
+title: Dr
+name: Donghwan Shin
+subtitle: University of Luxembourg
+layout: default
+img: donghwan.jpg
+thumbnail: donghwan.jpg
+alt: Donghwan Shin
+website: https://donghwan-shin.github.io
+description: Blah blah blah
+---

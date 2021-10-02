@@ -1,0 +1,11 @@
+---
+title: Dr
+name: Mohammad Amin Alipour
+subtitle: University of Houston
+layout: default
+img: alipour.jpg
+thumbnail: alipour.jpg
+alt: Mohammad Amin Alipour
+website: https://www.aminalipour.com/
+description: Foo bar
+---
