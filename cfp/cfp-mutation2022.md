@@ -26,17 +26,17 @@ Topics of interest include, but are not limited to, the following:
 
 Three types of papers can be submitted to the workshop:
 
-- Full papers (10 pages): Research, case studies.
-- Short papers (6 pages): Research in progress, tools.
-- Industrial papers (6 pages): Applications and lessons learned in industry.
+- Full papers (10 pages including references): Research, case studies.
+- Short papers (6 pages including references): Research in progress, tools.
+- Industrial papers (6 pages including references): Applications and lessons learned in industry.
 
 Each paper must conform to the two columns [IEEE conference publication format](https://www.ieee.org/conferences/publishing/templates.html) (please use the letter format template and conference option) and must be submitted in PDF format via [EasyChair](). Submissions will be evaluated according to the relevance and originality of the work and to their ability to generate discussions between the participants of the workshop. Each submission will be reviewed by three reviewers, and all accepted papers will be published as part of the ICST proceedings.
 
 
 ## Important Dates
 
-- Submission deadline: Fri 14 Jan 2022
-- Notification of acceptance: Fri 11 Feb 2022
+- Submission deadline: Fri 28 Jan 2022 (extended)
+- Notification of acceptance: Fri 18 Feb 2022 (extended)
 - Camera-ready: Fri 4 Mar 2022
 - Workshop date: Mon 4 Apr 2022
 
