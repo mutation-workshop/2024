@@ -8,7 +8,24 @@
                 </div>
             </div>
             <div class="row">
-            <center>TBD</center>
+            {% for post in site.categories.speakers %}
+                <div class="speakers-item col-md-6 col-sm-6"><!--<div class="col-md-4 col-sm-6">-->
+                    {% if post.website != '' %}
+                    <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
+                    {% endif %}
+                        <div class="speakers-hover">
+                            <div class="speakers-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="{{ site.baseurl }}/css/style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered img-speaker" alt="">
+                    </a>
+                    <div class="speakers-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted">{{ post.position }}<br>{{ post.affiliation }}</p>
+                    </div>
+                </div>
+            {% endfor %}
             </div>
         </div>
     </section>
