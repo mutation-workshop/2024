@@ -1,15 +1,15 @@
 Time,Title,Authors,Type
 (GMT Time),,,
 12:00-12:10,Welcome,,
-12:10-13:00,<b>Keynote</b>: Mutation Analysis for Cyber-Physical Systems: Scalable Solutions and Results in the Space Domain,Prof. Fabrizio Pastore,
-13:00-14:00,<b>Session 1</b>,(Chair) Donghwan Shin,
-,Augmenting Equivalent Mutant Dataset Using Symbolic Execution,Seungjoon Chung and Shin Yoo,Full
-,Random Mutant Selection and Equivalent Mutants Revisited,Rowland Pitts,Full
-,_BERT: Mutation Testing using Pre-Trained Language Models,Renzo Degiovanni and Mike Papadakis,Full
+12:10-13:00,Keynote: <i>Mutation Analysis for Cyber-Physical Systems: Scalable Solutions and Results in the Space Domain</i>,Prof. Fabrizio Pastore,
+13:00-14:00,Session 1</b>,(Chair) Donghwan Shin,
+,<i>Augmenting Equivalent Mutant Dataset Using Symbolic Execution</i>,Seungjoon Chung and Shin Yoo,Full
+,<i>Random Mutant Selection and Equivalent Mutants Revisited</i>,Rowland Pitts,Full
+,<i>μBERT: Mutation Testing using Pre-Trained Language Models</i>,Renzo Degiovanni and Mike Papadakis,Full
 14:00-14:10,Break (10 min),,
-14:10-14:50,<b>Session 2</b>,(Chair) Amin Alipour,
-,Re-visiting the coupling between mutants and real faults with Defects4J 2.0,"Thomas Laurent, Stephen Gaffney and Anthony Ventresque",Full
-,An Automated Framework for Cost Reduction of Mutation Testing Based on Program Similarity,"Giovanni Guarnieri, Alessandro Pizzoleto and Fabiano Ferrari",Full
+14:10-14:50,Session 2,(Chair) Amin Alipour,
+,<i>Re-visiting the coupling between mutants and real faults with Defects4J 2.0</i>,"Thomas Laurent, Stephen Gaffney and Anthony Ventresque",Full
+,<i>An Automated Framework for Cost Reduction of Mutation Testing Based on Program Similarity</i>,"Giovanni Guarnieri, Alessandro Pizzoleto and Fabiano Ferrari",Full
 14:50-15:00,Awarding Session,,
 15:00-15:30,Open Discussion for Workshop,,
 15:30-15:40,Concluding Remarks,,
