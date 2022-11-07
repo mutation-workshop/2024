@@ -1,11 +1,11 @@
 ---
 title: Dr
-name: Mohammad Amin Alipour
-subtitle: University of Houston
+name: Renzo Degiovanni
+subtitle: AnT, University of Luxembourg
 layout: default
-img: alipour.jpg
-thumbnail: alipour.jpg
-alt: Mohammad Amin Alipour
-website: https://www.aminalipour.com/
+img: renzo.JPG
+thumbnail: renzo.JPG
+alt: Renzo Degiovanni
+website: https://wwwen.uni.lu/snt/people/renzo_degiovanni
 description: Foo bar
 ---
