@@ -5,8 +5,8 @@ position: Lecturer
 affiliation: King's College London
 layout: default
 modal-id: 2
-img: gunel.png
-thumbnail: gunel.png
+img: gunel.jpg
+thumbnail: gunel.jpg
 alt: Gunel Jahangirova
 website: https://sites.google.com/view/guneljahangirova/
 topic: >
