@@ -1,22 +1,16 @@
 ---
-title: Fabrizio Pastore
+title: Gunel Jahangirova
 name: speaker-01
-position: Chief Scientist II/Associate Professor
-affiliation: University of Luxembourg
+position: Lecturer
+affiliation: King's College London
 layout: default
 modal-id: 2
-img: fabrizio.png
-thumbnail: fabrizio.png
-alt: Fabrizio Pastore
-website: http://fabriziopastore.com/
+img: gunel.png
+thumbnail: gunel.png
+alt: Gunel Jahangirova
+website: https://sites.google.com/view/guneljahangirova/
 topic: >
- Mutation Analysis for Cyber-Physical Systems: Scalable Solutions and Results in the Space Domain
+ TBA
 abstract: >
- Software testing plays an essential role in validating and verifying cyber-physical systems' software (e.g., embedded software developed for spaceflight systems - space software); however, the definition and assessment of test cases is mainly human-driven. Regulatory agencies thus need automated solutions to assess software testing activities to minimize the risk of human mistakes.
-
- Mutation analysis might be a solution to assess software testing activities; however, there is still uncertainty regarding its applicability to embedded software for CPS. For example, we lack studies applying mutation analysis techniques to CPS software.
-
- This keynote will overview our work towards enhancing mutation analysis techniques to enable their applicability to space software and, more in general, embedded software for CPS. Our work is part of a research project funded by the European Space Agency (ESA) involving private companies in the space sector. We defined and evaluated a mutation analysis pipeline that includes innovative optimizations. We evaluated our solutions with a benchmark provided by ESA and our industry partners: GomSpace, a manufacturer and supplier of nanosatellites, and LuxSpace, a developer of infrastructure products for space.
-bio: >
- Fabrizio Pastore is Chief Scientist II/Associate Prof. at the SnT Centre of the University of Luxembourg. His research interests concern software testing, program analysis, and automated debugging. He is the principal investigator of projects supported by ESA and the National Research Fund - Luxembourg; also, he manages the research activities in EU projects and several industrial partnerships in the space and automotive sectors. He serves as a reviewer for top software engineering journals and conferences.
+TBA
 ---
