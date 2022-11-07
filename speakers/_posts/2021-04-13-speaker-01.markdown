@@ -2,7 +2,7 @@
 title: Gunel Jahangirova
 name: speaker-01
 position: Lecturer
-affiliation: Kings\'s College London
+affiliation: Kings College London
 layout: default
 modal-id: 2
 img: gunel.jpg
