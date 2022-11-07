@@ -1,7 +1,7 @@
 ---
 title: Dr
 name: Donghwan Shin
-subtitle: University of Luxembourg
+subtitle: University of Sheffield
 layout: default
 img: donghwan.jpg
 thumbnail: donghwan.jpg
