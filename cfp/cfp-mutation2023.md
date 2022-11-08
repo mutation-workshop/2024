@@ -30,7 +30,7 @@ Three types of papers can be submitted to the workshop:
 - Short papers (6 pages): Research in progress, tools.
 - Industrial papers (6 pages): Applications and lessons learned in industry.
 
-Each paper must conform to the two columns [IEEE conference publication format](https://www.ieee.org/conferences/publishing/templates.html) (please use the letter format template and conference option) and must be submitted in PDF format via [EasyChair](). 
+Each paper must conform to the two columns [IEEE conference publication format](https://www.ieee.org/conferences/publishing/templates.html) (please use the letter format template and conference option) and must be submitted in PDF format via [EasyChair](https://easychair.org/conferences/?conf=mutation2023). 
 Submissions will be evaluated according to the relevance and originality of the work and to their ability to generate discussions between the participants of the workshop. Each submission will be reviewed by three reviewers, and all accepted papers will be published as part of the ICST proceedings.
 
 Mutation 2023 will employ a *double-blind* review process. 
