@@ -33,9 +33,9 @@ Three types of papers can be submitted to the workshop:
 Each paper must conform to the two columns [IEEE conference publication format](https://www.ieee.org/conferences/publishing/templates.html) (please use the letter format template and conference option) and must be submitted in PDF format via [EasyChair](https://easychair.org/conferences/?conf=mutation2023). 
 Submissions will be evaluated according to the relevance and originality of the work and to their ability to generate discussions between the participants of the workshop. Each submission will be reviewed by three reviewers, and all accepted papers will be published as part of the ICST proceedings.
 
-Mutation 2023 will employ a *double-blind* review process. 
+Mutation 2023 will employ a *double-anonymous* review process. 
 Authors *must* make every effort to anonymize their papers to hide their identities throughout the review process.
-See the <a href="https://conf.researchr.org/track/icst-2023/icst-2023-papers#Submitting-to-ICST2023-Q-A">double-blind QnA page</a> for more information. 
+See the <a href="https://conf.researchr.org/track/icst-2023/icst-2023-papers#Submitting-to-ICST2023-Q-A">double-anonymous QnA page</a> for more information. 
 
 
 ## Important Dates
