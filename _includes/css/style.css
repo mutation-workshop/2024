@@ -339,7 +339,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/style/img/background.jpg');
+    background-image: url('{{ site.baseurl }}/css/style/img/Toronto_Skyline_Wide_2014.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
