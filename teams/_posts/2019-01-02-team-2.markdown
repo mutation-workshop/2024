@@ -1,11 +1,10 @@
 ---
 title: Dr
-name: Donghwan Shin
-subtitle: University of Sheffield
+name: Thomas Laurent
+subtitle: Trinity College Dublin
 layout: default
-img: donghwan.jpg
-thumbnail: donghwan.jpg
-alt: Donghwan Shin
-website: https://donghwan-shin.github.io
-description: Blah blah blah
+img: thomas.png
+thumbnail: thomas.png
+alt: Thomas Laurent
+website: https://scholar.google.com/citations?user=HAosqiEAAAAJ
 ---
