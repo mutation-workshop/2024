@@ -24,7 +24,7 @@ Topics of interest include, but are not limited to, the following:
 
 ## Types of Submissions
 
-Three types of papers can be submitted to the workshop:
+Five types of papers can be submitted to the workshop:
 
 - Full papers (10 pages): Research, case studies.
 - Short papers (6 pages): Research in progress, tools.
