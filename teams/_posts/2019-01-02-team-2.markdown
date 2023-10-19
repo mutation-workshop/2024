@@ -1,7 +1,7 @@
 ---
 title: Dr
 name: Thomas Laurent
-subtitle: Trinity College Dublin
+subtitle: SFI Lero, Trinity College Dublin
 layout: default
 img: thomas.png
 thumbnail: thomas.png
