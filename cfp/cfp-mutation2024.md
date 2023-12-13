@@ -24,21 +24,27 @@ Topics of interest include, but are not limited to, the following:
 
 ## Types of Submissions
 
-Five types of papers can be submitted to the workshop:
+Three types of papers can be submitted to the workshop:
 
 - Full papers (10 pages): Research, case studies.
 - Short papers (6 pages): Research in progress, tools.
 - Industrial papers (6 pages): Applications and lessons learned in industry.
 - Industrial papers (2 pages): Mutation testing in practice reports.
-- Hot Off the Press (1 page abstract): presentation of work recently published in other venues
+- Hot Off the Press (1 page abstract): presentation of work recently published in other venues (no earlier than January 1st 2022)
 
-Each paper must conform to the two columns [IEEE conference publication format](https://www.ieee.org/conferences/publishing/templates.html) (please use the letter format template and conference option) and must be submitted in PDF format via [EasyChair](). 
+Each paper must conform to the two columns [IEEE conference publication format](https://www.ieee.org/conferences/publishing/templates.html) (please use the letter format template and conference option) and must be submitted in PDF format via [EasyChair](https://easychair.org/conferences/?conf=ieeeicst24workshops). 
 Submissions will be evaluated according to the relevance and originality of the work and to their ability to generate discussions between the participants of the workshop. Each submission will be reviewed by three reviewers, and all accepted papers will be published as part of the ICST proceedings (except for Hot Off the Press submissions).
 
-Mutation 2024 will employ a *double-anonymous* review process (except for Hot Off the Press submissions). 
+Mutation 2024 will employ a *double-anonymous* review process (except for Hot Off the Press and industry submissions). 
 Authors *must* make every effort to anonymize their papers to hide their identities throughout the review process.
 See the <a href="https://conf.researchr.org/track/icst-2024/icst-2024-papers#Submitting-to-ICST2024-Q-A">double-anonymous Q&A page</a> for more information. 
 
+### Industry papers
+Industry papers should be given the keyword "industry" and are not subject to the double anonymity policy.
+
+### Hot Off the Press
+Hot Off the Press submissions should contain 1) a short summary of the paper's contribution, 2) an explanation of why those results are particularly interesting for MUTATION attendees, 3) a link to the paper. Their title should start with "HOP:"
+The original paper should be published *no earlier than January 1st 2022*.
 
 ## Important Dates
 
