@@ -51,7 +51,7 @@ The original paper should be published *no earlier than January 1st 2022*.
 - Submission deadline: January 29, 2024
 - Notification of acceptance: February 26, 2024
 - Camera-ready: March 1, 2024
-- Workshop date: TBD May 2024
+- Workshop date: 28<sup>th</sup> May 2024
 
 
 ## Organization
