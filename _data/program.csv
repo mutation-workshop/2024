@@ -1,14 +1,15 @@
 Time,Title,Authors,Type
 (GMT+1 Time),,,
 09:30-09:35,Opening,,
-09:35-10:30,Keynote: <i>Mutation Testing of Deep Learning Systems: from Real Faults Investigation to Practical Applications</i>,Prof. Gunel Jahangirova,
+09:35-10:30,Keynote: <i>Mutation for AI and with AI</i>,Prof. Jie M. Zhang,
 11:00-12:30,Session 1</b>,(Chair) Renzo Degiovanni,
-,<i>Analysis of mutation operators for FSM testing</i>,Danial Nikbin and Yvan Labiche,Full
-,<i>A Tool for Mutation Analysis in Racket</i>,"Bambi Zhuang, James Perretta, Arjun Guha and Jonathan Bell",Short
-,<i>The Inversive Relationship Between Bugs and Patches: An Empirical Study</i>,"Jinhan Kim, Jongchan Park and Shin Yoo",Full
+,<i>Mutant-Kraken: A Mutation Testing Tool for Kotlin</i>,"Josue Morales, Lin Deng, Josh Dehlinger, Suranjan Chakraborty",Full
+,<i>Timed Model-Based Mutation Operators for Simulink Models</i>,"Jian Chen, Manar Alalfi, Thomas Dean",Short
+,<i>Improving the Efficacy of Testing Scientific Software: Insights from Mutation Testing</i>,"Kris Roker, Upulee Kanewala",Full
 12:30-14:00,Lunch (90 min),,
-14:00-15:00,Session 2,(Chair) Renzo Degiovanni,
-,<i>Mutation Testing in Continuous Integration: An Exploratory Industrial Case Study</i>,"Jonatan Orgard, Gregory Gay, Francisco Gomes and Kim Viggedal",Full
-,<i>Validation of Mutation Testing in the Safety Critical Industry through a Pilot Study</i>,"Sten Vercammen, Markus Borg and Serge Demeyer",Full
-15:00-15:30,Best paper award and closing,,
+14:00-15:30,Session 2,(Chair) Renzo Degiovanni,
+,<i>Test Harness Mutilation</i>,"Samuel Moelius",Full
+,<i>An Empirical Evaluation of Manually Created Equivalent Mutants</i>,"Philipp Straubinger, Alexander Degenhart, Gordon Fraser",Full
+,<i>A Study of Flaky Failure De-Duplication to Identify Unreliably Killed Mutants</i>,"Abdulrahman Alshammari, Paul Ammann, Michael Hilton, Jonathan Bell",Full
+16:00-17:30,Best paper award, dicussion and closing,,
 
