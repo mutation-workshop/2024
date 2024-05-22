@@ -10,9 +10,9 @@ thumbnail: jie.png
 alt: Jie M. Zhang
 website: "https://sites.google.com/view/jie-zhang/home"
 topic: >
-  TBA
+ TBA
 abstract: >
-  TBA 
+ TBA 
 bio: >
-  Dr. Jie M. Zhang is a lecturer (assistant professor) of computer science at Kings College London, UK.
+ Dr. Jie M. Zhang is a lecturer (assistant professor) of computer science at Kings College London, UK.
 ---
