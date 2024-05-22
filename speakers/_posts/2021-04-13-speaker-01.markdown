@@ -8,11 +8,11 @@ modal-id: 2
 img: jie.png
 thumbnail: jie.png
 alt: Jie M. Zhang
-website: https://sites.google.com/view/jie-zhang/home
+website: "https://sites.google.com/view/jie-zhang/home"
 topic: >
-  Mutation for AI and with AI.
+  TBA
 abstract: >
-  Traditional Mutation Testing applies a fixed set of mutation operators to generate mutants for the purpose of test assessment. However, the potential of mutants extends significantly beyond mere test evaluation. In this talk, I will share my experiences in exploring the power the mutants in testing and improving AI trustworthiness (Mutation for AI) in various AI systems, as well as a recent practice that leverages large language models for more powerful mutants (AI for Mutation). 
+  TBA 
 bio: >
   Dr. Jie M. Zhang is a lecturer (assistant professor) of computer science at Kings College London, UK.
 ---
