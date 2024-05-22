@@ -10,9 +10,9 @@ thumbnail: jie.jpg
 alt: Jie M. Zhang
 website: 
 topic: >
- Mutation for AI and with AI.
+ Mutation for AI and with AI. 
 abstract: >
- Traditional Mutation Testing applies a fixed set of mutation operators to generate mutants for the purpose of test assessment. However, the potential of mutants extends significantly beyond mere test evaluation. In this talk, I will share my experiences in exploring the power the mutants in testing and improving AI trustworthiness (Mutation for AI) in various AI systems, as well as a recent practice that leverages large language models for more powerful mutants (AI for Mutation).
+ Traditional Mutation Testing applies a fixed set of mutation operators to generate mutants for the purpose of test assessment. However, the potential of mutants extends significantly beyond mere test evaluation. In this talk, I will share my experiences in exploring the power the mutants in testing and improving AI trustworthiness (Mutation for AI) in various AI systems, as well as a recent practice that leverages large language models for more powerful mutants (AI for Mutation). 
 bio: >
  Dr. Jie M. Zhang is a lecturer (assistant professor) of computer science at Kings College London, UK. Before joining Kings she was a Research Fellow at University College London and a research consultant for Meta. 
  
@@ -22,5 +22,5 @@ bio: >
 
  Over the last three years, she has been invited to give over 20 talks at conferences, universities, and IT companies, including four keynote talks. She has also been invited as a panelist for several seminars on large language models. 
 
- She has been selected as the top-fifteen 2023 Global Chinese Female Young Scholars in interdisciplinary AI. Her research has won the 2022 Transactions on Software Engineering Best Paper award and the ICLR 2021 spotlight paper award.
+ She has been selected as the top-fifteen 2023 Global Chinese Female Young Scholars in interdisciplinary AI. Her research has won the 2022 Transactions on Software Engineering Best Paper award and the ICLR 2021 spotlight paper award. 
 ---
