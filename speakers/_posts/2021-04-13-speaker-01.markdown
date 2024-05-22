@@ -1,18 +1,20 @@
 ---
-title: Jie M. Zhang 
+title: Gunel Jahangirova
 name: speaker-01
 position: Lecturer/Assistant Profesor
 affiliation: Kings College London
 layout: default
 modal-id: 2
-img: jie.png
-thumbnail: jie.png
-alt: Jie M. Zhang
-website: "https://sites.google.com/view/jie-zhang/home"
+img: gunel.jpg
+thumbnail: gunel.jpg
+alt: Gunel Jahangirova
+website: https://sites.google.com/view/guneljahangirova/
 topic: >
  TBA
 abstract: >
- TBA 
+ TBA
 bio: >
- Dr. Jie M. Zhang is a lecturer (assistant professor) of computer science at Kings College London, UK.
+ Gunel Jahangirova is a Lecturer (Assistant Professor) at King's College London in the United Kingdom. Prof. Jahangirova current research interests include automatic generation of assertion oracles, error propagation in software programs, mutation testing of deep learning systems, and oracles and quality metrics for autonomous vehicles. 
+ 
+ Before joining KCL, Prof. Jahangirova worked as a PostDoctoral Researcher at the Software Institute of Università della Svizzera Italiana (USI) in Lugano, Switzerland. Prof. Jahangirova obtained her PhD in a joint program between Fondazione Bruno Kessler, Trento, Italy and University College London, London, UK during which she was advised by Prof. Paolo Tonella, Dr. David Clark (first supervisors) and Prof. Mark Harman (second supervisor). Prof. Jahangirova PhD work focused on the oracle problem in software testing, in particular, assessment, improvement and placement of test oracles. 
 ---
