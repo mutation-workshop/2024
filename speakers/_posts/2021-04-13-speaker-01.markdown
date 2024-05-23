@@ -8,7 +8,7 @@ modal-id: 2
 img: jie.jpg
 thumbnail: jie.jpg
 alt: Jie M. Zhang
-website: 
+website: https://sites.google.com/view/jie-zhang/home
 topic: >
  Mutation for AI and with AI. 
 abstract: >
